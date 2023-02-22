@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: chartreuse;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: brown;
+}
+
+nav {
+    background-color: whitesmoke;
+}
+
+.altura1 {
+    height:5vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+article {
+    background-color: rosybrown;
+}
+a:active {
+    color: red;
+  }
+
+.altura3{
+    height: 25vh; 
+}
+
+article2 {
+    background-color: red;
+}
+a:any-link {
+    border: 1px solid blue;
+    color: orange;
+  }
+  
+  /* navegadores WebKit */
+  a:-webkit-any-link {
+    border: 1px solid blue;
+    color: orange;
+  }
+
+article3 {
+    background-color: yellow;
+}
+
+article4 {
+    background-color: orange;
+}
+
+div,
+select {
+  margin: 0;
+}
+
+/* Etiquetas para entradas marcadas */
+input:checked + label {
+  color: red;
+}
+
+/* Elemento Radio, cuando está marcado */
+input[type="radio"]:checked {
+  box-shadow: 0 0 0 3px orange;
+}
+
+/* Elemento Checkbox, cuando está marcado */
+input[type="checkbox"]:checked {
+  box-shadow: 0 0 0 3px hotpink;
+}
+
+/* Elementos Option, cuando se seleccionan */
+option:checked {
+  box-shadow: 0 0 0 3px lime;
+  color: red;
+}
+
+
+.altura4{
+    height: 25vh;
+}
+
+article5 {
+    background-color: red;
+}
+
+:current(p, span) {
+    background-color: yellow;
+  }
+
+article6 {
+    background-color: yellow;
+}
+
+article7 {
+    background-color: orange;
+}
+
+article8 {
+    background-color: red;
+}
+
+.altura5{
+    height: 25vh;
+}
+
+article9 {
+    background-color: blue;
+}
+
+article10 {
+    background-color: purple;
+}
+
+article11 {
+    background-color: bisque;
+}
+
+article12 {
+    background-color: orange;
+}
+
+.altura6{
+    height: 25vh;
+}
+
+article13 {
+    background-color: orangered;
+}
+
+article14 {
+    background-color: darkgray;
+}
+
+article15 {
+    background-color: lightcoral;
+}
+
+article16 {
+    background-color: violet;
+}
+
+.altura7{
+    height: 25vh;
+}
+
+article17 {
+    background-color: goldenrod;
+}
+
+article18 {
+    background-color: blueviolet;
+}
+
+article19 {
+    background-color: khaki;
+}
+
+article20 {
+    background-color: white;
+}
+
+.altura8{
+    height: 25vh;
+}
+
+article21 {
+    background-color: indigo;
+}
+
+article22 {
+    background-color: limegreen;
+}
+
+article23 {
+    background-color: turquoise;
+}
+
+article24 {
+    background-color: rosybrown;
+}
+
+
+
+
+
+
+
+
+
+
+
